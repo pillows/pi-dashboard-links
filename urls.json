@@ -1,0 +1,23 @@
+{
+  "options": {
+    "version": "0.1"
+  },
+  "urls": [
+    {
+      "title": "subway1",
+      "url": "https://traintrack.nyc/app/station/065"
+    },
+    {
+      "title": "bus time",
+      "url": "https://www.transsee.ca/predict?s=mta.B8.300908"
+    },
+    {
+      "title": "weather",
+      "url": "https://www.weatherbug.com/weather-forecast/hourly/bensonhurst-ny-11214"
+    },
+    {
+      "title": "weather",
+      "url": "https://www.weatherbug.com/weather-forecast/hourly/bensonhurst-ny-11214"
+    }
+  ]
+}
